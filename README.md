@@ -3,6 +3,8 @@ Fully working online messenger written in java (with GUI)
 
 This is the final project for the module of Advanced programming at the University of East London.
 
+the .jar files are the executable files (Server and Client) and the zipped folder contains all the code for all the classes implemented in the project
+
 This is an application that allows multiple users to char via text with other users in the network.
 It uses Threads to allow for multiple connections and also uses a Client- Server infrastructure.
 
